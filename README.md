@@ -8,7 +8,7 @@ Course project for *Data Collection and Preprocessing* (Umm Al-Qura University),
 
 The analysis covers a retail dataset of 3,900 transactions and 18 columns and asks: **which features drive revenue?** The target variable is Purchase Amount (USD).
 
-**Dataset:** *Customer Spending Patterns* by Ayesha Imran on Kaggle ([add link here]). The file is not included in this repository. Download it from Kaggle and save it as `shopping_behavior.csv` next to the notebook.
+**Dataset:** *Customer Spending Patterns* by Ayesha Imran on Kaggle (it has since been removed). The file is not included in this repository.
 
 ## What the notebook covers
 

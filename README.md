@@ -2,7 +2,7 @@
 
 A data collection and preprocessing project in Python: assessing data quality, handling missing values and outliers, exploring spending behavior, and preparing the data for modeling.
 
-Course project for *Data Collection and Preprocessing* (Umm Al-Qura University), completed as a pair with Lamar Ghazi Alsubhi, May 2026.
+Course project for *Data Collection and Preprocessing* (Umm Al-Qura University), completed as a pair with Lamar Alsubhi, May 2026.
 
 ## Overview
 
@@ -30,16 +30,10 @@ The analysis covers a retail dataset of 3,900 transactions and 18 columns and as
 
 Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn (MinMaxScaler, RFE, PCA)
 
-## How to run
-
-```bash
-pip install -r requirements.txt
-jupyter notebook customer_spending_analysis.ipynb
-```
 
 ## Limitations
 
-The dataset appears to be synthetic: spending is evenly spread between $20 and $100 with no outliers, which real retail data rarely shows. The findings should be validated on real-world data.
+The dataset appears to be synthetic: spending is evenly spread between $20 and $100 with no outliers, which real retail data rarely shows. Validate the findings on real-world data.
 
 ## Author
 
